@@ -11,3 +11,7 @@
 Запустить приложение:
 
 `npm run start`
+
+Деплой клиентской части:
+
+https://bookflow-client.vercel.app
